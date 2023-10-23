@@ -12,7 +12,7 @@ Este repositorio contiene mis soluciones a los ejercicios disponibles en [CodeSi
         <ul>
           <li>The Journey Begins</li>
           <ol type="1">
-            <li><a href="#"></a></li>
+            <li><a href="/src/main/java/dev/asjordi/arcade/intro/add.java">add</a></li>
             <li><a href="#"></a></li>
             <li><a href="#"></a></li>
           </ol>
