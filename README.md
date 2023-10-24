@@ -14,7 +14,7 @@ Este repositorio contiene mis soluciones a los ejercicios disponibles en [CodeSi
           <ol type="1">
             <li><a href="/src/main/java/dev/asjordi/arcade/intro/add.java">add</a></li>
             <li><a href="/src/main/java/dev/asjordi/arcade/intro/CenturyFromYear.java">centuryFromYear</a></li>
-            <li><a href="#"></a></li>
+            <li><a href="/src/main/java/dev/asjordi/arcade/intro/CheckPalindrome.java">checkPalindrome</a></li>
           </ol>
         </ul>
     </details>
