@@ -1,4 +1,4 @@
-package dev.asjordi.arcade.intro;
+package dev.asjordi.arcade.intro.thejourneybegins;
 
 public class CheckPalindrome {
 
