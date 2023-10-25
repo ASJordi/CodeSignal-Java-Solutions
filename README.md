@@ -16,6 +16,10 @@ Este repositorio contiene mis soluciones a los ejercicios disponibles en [CodeSi
             <li><a href="/src/main/java/dev/asjordi/arcade/intro/thejourneybegins/CenturyFromYear.java">centuryFromYear</a></li>
             <li><a href="/src/main/java/dev/asjordi/arcade/intro/thejourneybegins/CheckPalindrome.java">checkPalindrome</a></li>
           </ol>
+          <li>Edge of the Ocean</li>
+          <ol type="1">
+            <li><a href="/src/main/java/dev/asjordi/arcade/intro/edgeoftheocean/AdjacentElementsProduct.java">adjacentElementsProduct</a></li>
+          </ol>
         </ul>
     </details>
   </ul>
