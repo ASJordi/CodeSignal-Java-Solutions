@@ -19,6 +19,7 @@ Este repositorio contiene mis soluciones a los ejercicios disponibles en [CodeSi
           <li>Edge of the Ocean</li>
           <ol type="1">
             <li><a href="/src/main/java/dev/asjordi/arcade/intro/edgeoftheocean/AdjacentElementsProduct.java">adjacentElementsProduct</a></li>
+            <li><a href="/src/main/java/dev/asjordi/arcade/intro/edgeoftheocean/ShapeArea.java">shapeArea</a></li>
           </ol>
         </ul>
     </details>
